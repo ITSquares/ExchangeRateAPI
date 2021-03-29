@@ -1,5 +1,7 @@
 <?php
 
+include "ExchangeRateLoader.php";
+
 trait ExchangeRateTrait{
 
     public function getDataByCountry(string $name): array{
