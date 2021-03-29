@@ -37,10 +37,6 @@ trait ExchangeRateTrait{
                 throw new ExchangeRateException($data["Error"]);
             }
 
-            if (!isset($data[$key])) {
-                throw new ExchangeRateException("Not Founded.");
-            }
-
         } catch (ExchangeRateException $exception) {
             $ref = new ReflectionClass(ExchangeRateLoader::class);
             $logger = false;
