@@ -3,12 +3,12 @@
 
 <br>
 
-# Contributors
+# 👯 Contributors
 > [송기호(GodVas)](https://github.com/GodVas)
 
 <br>
 
-# 소스 분석 
+# 💬 소스 분석 
 - 쉽게 클래스를 불러올 수 있습니다.
 ```php
 include "ExchangeRateLoader.php";
@@ -54,10 +54,10 @@ $class->getSearchKeyByCountryData(string $name, string $key);
 
 <br>
 
-# 만들게 된 계기
+# 😄 만들게 된 계기
 > 팀 프로젝트를 진행하여 각자 역할을 나눠서 맡게 된 PHP 언어를 이용한 API 호출 메서드 제작입니다.
 
 <br>
 
-# 만든 소감
+# ⚡ 만든 소감
 > 위 프로젝트를 진행하면서 소스에 조금 더 신경 쓰게 되었던 것 같습니다. 좋은 경험이였습니다.
