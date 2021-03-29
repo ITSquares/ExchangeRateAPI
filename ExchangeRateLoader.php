@@ -1,6 +1,7 @@
 <?php
 
 include "IExchangeRate.php";
+include "ExchangeRateTrait.php";
 
 final class ExchangeRateLoader implements IExchangeRate{
     use ExchangeRateTrait;
