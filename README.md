@@ -33,7 +33,7 @@ $class->getVerifyURL();
 
 <br>
 
-- API 주소로 접근이 허용된다면 Json으로 변환 후 갑을 출력할 수도 있습니다.
+- API 주소로 접근이 허용된다면 Json으로 변환 후 값을 출력할 수도 있습니다.
 ```php
 $class->toJson();
 ```
