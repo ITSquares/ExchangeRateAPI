@@ -3,7 +3,7 @@
 
 <br>
 
-# 👯 Contributors
+# 👨‍💻 Contributors
 > [송기호(GodVas)](https://github.com/GodVas)
 
 <br>
